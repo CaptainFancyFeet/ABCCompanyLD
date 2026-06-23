@@ -280,10 +280,10 @@ function AiMixologist({ user, recommendation }) {
     <section className="card ai-panel">
       <div className="section-heading">
         <div>
-          <p className="eyebrow">New</p>
+          <p className="eyebrow">COMING SOON</p>
           <h2>AI Mixologist</h2>
         </div>
-        <span className="status-pill ai-pill">Personalized recommendation</span>
+        <span className="status-pill ai-pill">Personalized recommendations</span>
       </div>
 
       <div className="chat-layout">
